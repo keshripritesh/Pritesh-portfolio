@@ -68,7 +68,7 @@ This site showcases my skills, projects, certifications, and achievements in the
 ## 🌐 Live Demo
 
 [View Portfolio Live](https://pritesh-portfolio-gnv1.vercel.app/)  
-*(Replace `#` with your deployed site link if available)*
+
 
 ## 📬 Contact
 
